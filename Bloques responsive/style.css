@@ -1,0 +1,52 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+@media (min-width:768px) {
+    body {background-color: rgb(189, 189, 189);    
+} 
+
+#wrapper{
+    background-color: rgb(255, 203, 203);
+    margin: 0px auto;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.cont-1{
+    padding-top: 80px;
+    margin-left: 5px;
+    height: 120px;
+    width: 210px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.cont-2{
+    padding-top: 80px;
+    margin-left: 5px;
+    height: 120px;
+    width: 210px;
+    background-color: rgb(255, 0, 170);
+    display: inline-block;
+}
+
+.cont-3{
+    padding-top: 80px;
+    margin-left: 5px;
+    height: 120px;
+    width: 210px;
+    background-color: rgb(43, 255, 0);
+    display: inline-block;
+}
+
+.cont-4{
+    padding-top: 80px;
+    margin-left: 5px;
+    height: 120px;
+    width: 210px;
+    background-color: rgb(255, 94, 0);
+    display: inline-block;
+}
