@@ -1,0 +1,14 @@
+/**/
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+body{
+    padding-top: 20px;
+}
+
+#carouselExampleControls{
+    margin: 0 auto;
+}
