@@ -272,7 +272,8 @@ resultado1 = promediar_edades(arreglo_personas)
 resultado2 = promediar_pesos(arreglo_personas)
 
 console.log(resultado1)
-//console.log(resultado2)
+console.log(resultado2)
 
-document.body.innerHTML = resultado1
-//document.body.innerHTML = resultado2
+//document.body.innerHTML = resultado1 , document.body.innerHTML = resultado2
+
+document.body.innerHTML = resultado1+"-"+resultado2
