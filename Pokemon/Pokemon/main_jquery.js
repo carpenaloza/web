@@ -1,6 +1,6 @@
 $(document).ready(function (){
     
-    $( "#btn-primary" ).hide();
+    $( "#btn-primary" ).hide(0);
 
     $("#btn-buscar").click(
         function () {
