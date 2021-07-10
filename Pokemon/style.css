@@ -9,26 +9,45 @@ body{
     padding-top: 20px;
 }
 
+.container{
+
+}
+
 .header_foto{
     padding-bottom: 20px;
 }
 
 .card-body h5{
+    text-align: center;
+}
+
+.card-text p{
+    padding-left: 10px;
+    color: rgb(112, 112, 112);
     text-align: left;
 }
 
-.card-body h6{
-    text-align: center;
-    font-weight: bold;
-    color: darkviolet;
-}
-
-.card-body h4{
-    text-align: center;
-    color: rgb(100, 100, 100);
-    font-size: 11px;
+#txt-busqueda input{
+    border-color: 1px solid #008CBA ;
 }
 
 #btn-buscar{
-    
+    margin-top: 8px;
+    color: #008CBA; 
+    border-radius: 2px solid #008CBA;
+    padding: 3%;
+}
+
+#btn-primary{
+    margin-top: 7px;
+    background-color: #5a5a5a; 
+    color: rgb(255, 255, 255); 
+    border: 1px solid #474747;
+    border-radius: 10%;
+    padding: 1%;
+}
+
+.card-title h7{
+    font-size: 14px;
+
 }

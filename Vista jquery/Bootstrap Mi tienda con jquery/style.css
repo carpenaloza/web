@@ -2,15 +2,13 @@
 * {
     padding: 0px;
     margin: 0px;
+    background-color: darkgrey;
 
 }
 
 body{
     padding-top: 20px;
-}
 
-#carouselExampleControls{
-    margin: 0 auto;
 }
 
 .card-body h5{
