@@ -1,0 +1,142 @@
+/**/
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+#contenido {
+    width: 1000px;
+    height: 1100px;
+    background-color: rgb(233, 231, 231);
+    padding-top: 40px;
+    padding-left: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+}
+
+.perfil {
+    width: 200px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(90, 89, 89);
+}
+
+.perfil-datos {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    font-size: 14px;
+    display:inline-block;
+}
+
+.redes-sociales{
+    height: 50px;
+}
+
+.perfil-datos-tienda {
+    width: 196px;
+    height: 30px;
+    background-color: rgb(209, 208, 208);
+    font-size: 14px;
+    display:inline-block;
+    padding-top: 10px;
+    color: honeydew;
+}
+
+.perfil p{
+    font-size: 12px;
+}
+
+.foto_marca{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.parrafo-mi-descripcion{
+    margin: 0 20px 0 20px;
+
+}
+
+.navegacion {
+    list-style-type: none;
+    height: 30px;
+    width: 750px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.navegacion li{
+    display:inline-block;
+    font-size: 18px;
+    color: rgb(87, 87, 87);
+    margin-right: 15px;
+    
+}
+
+.principal {
+    width: 750px;
+    height: 1000px;
+    /*background-color: coral;*/
+    display: inline-block;
+    vertical-align: top;
+}
+
+.presentacion-principal {
+    height:370px;
+    width:750px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(90, 89, 89);
+    font-variant: unset;
+
+    
+}
+.descripcion-saludo{
+    width:400px;
+    display: inline-block;
+    text-align: center;
+    margin: 10 auto;
+    vertical-align: top;
+    padding-top: 95px;
+}
+
+.foto-principal{
+    width:280px;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+#ver_portafolio {
+    border: 1px solid #b4008d; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #b4008d; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    }
+
+.about-me{
+    width: 680px;
+    height:150px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(87, 87, 87);
+    padding: 30px 20px 10px 50px;
+    
+}
+
+.contenedor_formulario_datos{
+    padding-left: 50px;
+    padding-bottom: 28px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(87, 87, 87);
+}
+
+.datos-personales td{
+    height: 40px;
+}
